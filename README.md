@@ -48,6 +48,7 @@ Classic pizzas generate the most revenue
 Focus marketing on weekend offers
 
 Optimize inventory for Large-sized pizzas
+https://github.com/DevendraJangid0103/Pizza_Sales_analysis_dasbhoard/blob/main/pizza%20sales%20dashboard.png
 
 **🧰 Tools & Technologies**
 
